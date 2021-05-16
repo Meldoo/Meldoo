@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meldoo.
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning vanilla javascript and react.
+- 🌱 I’m currently learning web development. At the moment i'm focusing on React and MongoDB.
 - 💞️ I’m looking to collaborate on anything where I can contribute!
 - 📫 How to reach me: markus.meldo@live.com
 
