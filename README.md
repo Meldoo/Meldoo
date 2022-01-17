@@ -4,7 +4,7 @@ I'm an aspiring web developer with a passion for solving problems and learning n
 
 
 <h2>I'm also a passionate gamer, you can also find me on </h2>
-Steam: [Steam link](https://steamcommunity.com/id/Meldo9000/)
+Steam: <a href="https://steamcommunity.com/id/Meldo9000/">Steam profile</a>
 
 <br>
 Discord: Meldo#1041
