@@ -1,6 +1,6 @@
 <h1>Hi there, i'm Markus Meldo!</h1>
 
-<h3>A web developer under construction</h3>
+<h2>A web developer under construction</h2>
 I'm an aspiring web developer with a passion for solving problems and learning new stuff. I have a bachelor degree in informatics with further qualifications in web development. I currently work as an IT-manger but want to make a shift to web development. 
 
 <h3>Gaming </h3>
