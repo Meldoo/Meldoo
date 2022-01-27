@@ -4,7 +4,7 @@
 I'm an aspiring web developer with a passion for solving problems and learning new stuff. I have a bachelor degree in informatics with further qualifications in web development. I currently work as an IT-manger but want to make a shift to web development. 
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meldoo&theme=tokyonight)](https://github.com/Meldoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meldoo&theme=dark)](https://github.com/Meldoo/github-readme-stats)
 
 
 <h3>Gaming </h3>
