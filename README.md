@@ -5,7 +5,6 @@ I'm an aspiring web developer with a passion for solving problems and learning n
 
 <br/>
 <br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meldoo&layout=compact&theme=radical)](https://github.com/Meldoo/github-readme-stats)
 
