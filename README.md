@@ -8,7 +8,7 @@ I'm an aspiring web developer with a passion for solving problems and learning n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meldoo&layout=compact&theme=radical)](https://github.com/Meldoo/github-readme-stats)
 
-<h3>Gaming </h3>
+<h2>Gaming </h2>
   <h4>I'm also a passionate gamer, you can find me on:</h4>
 Steam: <a href="https://steamcommunity.com/id/Meldo9000/">Steam profile</a>
 
