@@ -6,6 +6,9 @@ I'm and experianced and self-motivated former business developer with a backgrou
 
 <h2>Contact </h2>
 <br/>
+![alt text](https://photos.google.com/photo/AF1QipMbnYc51NLhi8aev0WGsgyhZ0Gj4Ja5v8z2iDFB)
+
+
 <br/>
 
 <h2>Coding </h2>
