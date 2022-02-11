@@ -6,6 +6,8 @@ I'm and experianced and self-motivated former business developer with a backgrou
 
 <h2>Contact </h2>
 <br/>
+
+
 ![linkedin_mm](https://user-images.githubusercontent.com/57542893/153622163-dfa9e0c9-b98f-4ad8-b4aa-e4f6372877ba.PNG)
 
 
