@@ -3,7 +3,7 @@
 <h2>A web developer under construction</h2>
 I'm an aspiring web developer with a passion for solving problems and learning new stuff. I have a bachelor degree in informatics with further qualifications in web development. 
 
-<h3<I'm an experianced and self-motivated former busines</h3>
+<h3>I'm and experianced and self-motivated former business developer with a background in accounting looking for an entry-level position and an opportunity to start my new career</h3>
 
 <br/>
 <br/>
