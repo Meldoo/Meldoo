@@ -8,6 +8,7 @@ I'm and experianced and self-motivated former business developer with a backgrou
 <br/>
 <br/>
 
+<h2>Coding </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meldoo&layout=compact&theme=radical)](https://github.com/Meldoo/github-readme-stats)
 
 <h2>Gaming </h2>
