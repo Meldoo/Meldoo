@@ -18,8 +18,6 @@ I'm and experianced and self-motivated former business developer with a backgrou
   
 </a>
 
-<br/>
-
 <h2>Coding </h2>
 <br/>
 <br/>
