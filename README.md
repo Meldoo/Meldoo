@@ -4,6 +4,7 @@
 
 I'm and experianced and self-motivated former business developer with a background in accounting looking for an entry-level position and an opportunity to start my new career.
 
+<h2>Contact </h2>
 <br/>
 <br/>
 
