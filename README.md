@@ -8,7 +8,7 @@ I'm and experianced and self-motivated former business developer with a backgrou
 <br/>
 <br/>
 
-<h2>Contact </h2>
+<h2>Coding </h2>
 <br/>
 <br/>
 
