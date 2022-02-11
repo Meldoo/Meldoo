@@ -7,9 +7,11 @@ I'm and experianced and self-motivated former business developer with a backgrou
 <h2>Contact </h2>
 
 
-![linkedin_mm](https://user-images.githubusercontent.com/57542893/153623291-b86904ae-9811-41ea-8991-278eb42301ce.PNG)
+
 
 ![fb_mm](https://user-images.githubusercontent.com/57542893/153622894-9c1d9140-778e-4977-8552-8de153bad109.PNG)
+
+[![linkedin_mm]](https://user-images.githubusercontent.com/57542893/153623291-b86904ae-9811-41ea-8991-278eb42301ce.PNG)](www.linkedin.com/in/markus-meldo)
 
 
 <br/>
