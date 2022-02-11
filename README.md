@@ -14,3 +14,5 @@ Steam: <a href="https://steamcommunity.com/id/Meldo9000/">Steam profile</a>
 
 <br/>
 Discord: Meldo#1041
+<br/>
+Battlenet: Meldo#2184
