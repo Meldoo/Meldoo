@@ -1,6 +1,6 @@
 <h1>Hi there, i'm Markus Meldo!</h1>
 
-<h3>I love building stuff and being creative!</h3> 
+<h3>I love building stuff and being creative.</h3> 
 
 <h2>Contact </h2>
 
